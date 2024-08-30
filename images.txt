@@ -4,7 +4,7 @@ openremote/postgresql
 openremote/manager
 openremote/proxy
 openremote/openremote-cli
-tilemaker
+#tilemaker
 mongo:3.5
 minio/minio
 ibagroup/iot-data-simulator-rabbitmq:0.1
