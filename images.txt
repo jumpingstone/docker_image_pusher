@@ -5,6 +5,12 @@ openremote/manager
 openremote/proxy
 openremote/openremote-cli
 tilemaker
+mongo:3.5
+minio/minio
+ibagroup/iot-data-simulator-rabbitmq:0.1
+ibagroup/iot-data-simulator-services:1.1.0
+ibagroup/iot-data-simulator-ui:1.1.0
+ibagroup/iot-data-simulator-sender:1.1.0
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
